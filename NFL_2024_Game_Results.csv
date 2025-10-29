@@ -1,0 +1,289 @@
+Game_ID,Season,Week,Date,Home_Team,Away_Team,Home_Score,Away_Score,Winner,Margin_of_Victory,Total_Points,Attendance,Stadium
+1,2024-2025,1,2024-09-05,Tampa Bay Buccaneers,Atlanta Falcons,24,27,Atlanta Falcons,3,51,65065,Buccaneers Stadium
+2,2024-2025,1,2024-09-05,Las Vegas Raiders,Houston Texans,26,18,Las Vegas Raiders,8,44,78046,Raiders Stadium
+3,2024-2025,1,2024-09-05,Baltimore Ravens,New York Giants,25,21,Baltimore Ravens,4,46,64317,Ravens Stadium
+4,2024-2025,1,2024-09-05,Minnesota Vikings,New Orleans Saints,22,25,New Orleans Saints,3,47,76367,Vikings Stadium
+5,2024-2025,1,2024-09-05,Tennessee Titans,New England Patriots,19,27,New England Patriots,8,46,70490,Titans Stadium
+6,2024-2025,1,2024-09-05,Seattle Seahawks,Jacksonville Jaguars,31,13,Seattle Seahawks,18,44,75386,Seahawks Stadium
+7,2024-2025,1,2024-09-05,Los Angeles Rams,Cincinnati Bengals,32,32,Tie,0,64,79626,Rams Stadium
+8,2024-2025,1,2024-09-05,Washington Commanders,Dallas Cowboys,29,18,Washington Commanders,11,47,68817,Commanders Stadium
+9,2024-2025,1,2024-09-05,Philadelphia Eagles,Miami Dolphins,24,33,Miami Dolphins,9,57,78770,Eagles Stadium
+10,2024-2025,1,2024-09-05,Detroit Lions,Arizona Cardinals,22,26,Arizona Cardinals,4,48,81591,Lions Stadium
+11,2024-2025,1,2024-09-05,Carolina Panthers,Pittsburgh Steelers,19,34,Pittsburgh Steelers,15,53,64819,Panthers Stadium
+12,2024-2025,1,2024-09-05,Chicago Bears,Kansas City Chiefs,14,37,Kansas City Chiefs,23,51,69454,Bears Stadium
+13,2024-2025,1,2024-09-05,Buffalo Bills,San Francisco 49ers,23,16,Buffalo Bills,7,39,72236,Bills Stadium
+14,2024-2025,1,2024-09-05,Green Bay Packers,Cleveland Browns,35,28,Green Bay Packers,7,63,74719,Packers Stadium
+15,2024-2025,1,2024-09-05,New York Jets,Denver Broncos,20,38,Denver Broncos,18,58,75289,Jets Stadium
+16,2024-2025,1,2024-09-05,Indianapolis Colts,Los Angeles Chargers,22,30,Los Angeles Chargers,8,52,61302,Colts Stadium
+17,2024-2025,2,2024-09-12,New York Giants,Philadelphia Eagles,13,37,Philadelphia Eagles,24,50,64524,Giants Stadium
+18,2024-2025,2,2024-09-12,San Francisco 49ers,New Orleans Saints,24,16,San Francisco 49ers,8,40,72172,49ers Stadium
+19,2024-2025,2,2024-09-12,New England Patriots,Kansas City Chiefs,13,43,Kansas City Chiefs,30,56,76506,Patriots Stadium
+20,2024-2025,2,2024-09-12,Dallas Cowboys,Indianapolis Colts,22,19,Dallas Cowboys,3,41,72205,Cowboys Stadium
+21,2024-2025,2,2024-09-12,Cincinnati Bengals,Buffalo Bills,36,30,Cincinnati Bengals,6,66,65787,Bengals Stadium
+22,2024-2025,2,2024-09-12,Los Angeles Rams,New York Jets,37,28,Los Angeles Rams,9,65,72292,Rams Stadium
+23,2024-2025,2,2024-09-12,Minnesota Vikings,Denver Broncos,43,23,Minnesota Vikings,20,66,81953,Vikings Stadium
+24,2024-2025,2,2024-09-12,Los Angeles Chargers,Miami Dolphins,20,18,Los Angeles Chargers,2,38,61935,Chargers Stadium
+25,2024-2025,2,2024-09-12,Tampa Bay Buccaneers,Arizona Cardinals,24,33,Arizona Cardinals,9,57,68610,Buccaneers Stadium
+26,2024-2025,2,2024-09-12,Cleveland Browns,Green Bay Packers,29,32,Green Bay Packers,3,61,75580,Browns Stadium
+27,2024-2025,2,2024-09-12,Detroit Lions,Seattle Seahawks,35,35,Tie,0,70,80543,Lions Stadium
+28,2024-2025,2,2024-09-12,Washington Commanders,Tennessee Titans,24,21,Washington Commanders,3,45,79259,Commanders Stadium
+29,2024-2025,2,2024-09-12,Chicago Bears,Atlanta Falcons,28,25,Chicago Bears,3,53,66700,Bears Stadium
+30,2024-2025,2,2024-09-12,Houston Texans,Jacksonville Jaguars,29,30,Jacksonville Jaguars,1,59,79871,Texans Stadium
+31,2024-2025,2,2024-09-12,Las Vegas Raiders,Pittsburgh Steelers,26,18,Las Vegas Raiders,8,44,69504,Raiders Stadium
+32,2024-2025,2,2024-09-12,Baltimore Ravens,Carolina Panthers,37,22,Baltimore Ravens,15,59,61881,Ravens Stadium
+33,2024-2025,3,2024-09-19,Los Angeles Rams,Jacksonville Jaguars,25,34,Jacksonville Jaguars,9,59,71322,Rams Stadium
+34,2024-2025,3,2024-09-19,San Francisco 49ers,Cleveland Browns,16,34,Cleveland Browns,18,50,63292,49ers Stadium
+35,2024-2025,3,2024-09-19,New York Jets,Tennessee Titans,25,32,Tennessee Titans,7,57,75020,Jets Stadium
+36,2024-2025,3,2024-09-19,Philadelphia Eagles,New England Patriots,34,23,Philadelphia Eagles,11,57,77527,Eagles Stadium
+37,2024-2025,3,2024-09-19,Las Vegas Raiders,New York Giants,25,20,Las Vegas Raiders,5,45,73438,Raiders Stadium
+38,2024-2025,3,2024-09-19,Los Angeles Chargers,Seattle Seahawks,18,19,Seattle Seahawks,1,37,67914,Chargers Stadium
+39,2024-2025,3,2024-09-19,Carolina Panthers,Pittsburgh Steelers,21,33,Pittsburgh Steelers,12,54,69768,Panthers Stadium
+40,2024-2025,3,2024-09-19,Kansas City Chiefs,Baltimore Ravens,32,36,Baltimore Ravens,4,68,78936,Chiefs Stadium
+41,2024-2025,3,2024-09-19,New Orleans Saints,Green Bay Packers,27,18,New Orleans Saints,9,45,79191,Saints Stadium
+42,2024-2025,3,2024-09-19,Chicago Bears,Atlanta Falcons,15,17,Atlanta Falcons,2,32,74526,Bears Stadium
+43,2024-2025,3,2024-09-19,Indianapolis Colts,Miami Dolphins,24,32,Miami Dolphins,8,56,76964,Colts Stadium
+44,2024-2025,3,2024-09-19,Cincinnati Bengals,Arizona Cardinals,34,15,Cincinnati Bengals,19,49,60571,Bengals Stadium
+45,2024-2025,3,2024-09-19,Washington Commanders,Tampa Bay Buccaneers,36,37,Tampa Bay Buccaneers,1,73,73442,Commanders Stadium
+46,2024-2025,3,2024-09-19,Dallas Cowboys,Minnesota Vikings,37,36,Dallas Cowboys,1,73,70686,Cowboys Stadium
+47,2024-2025,3,2024-09-19,Detroit Lions,Houston Texans,26,27,Houston Texans,1,53,80432,Lions Stadium
+48,2024-2025,3,2024-09-19,Denver Broncos,Buffalo Bills,33,30,Denver Broncos,3,63,63295,Broncos Stadium
+49,2024-2025,4,2024-09-26,Indianapolis Colts,Los Angeles Chargers,28,32,Los Angeles Chargers,4,60,70287,Colts Stadium
+50,2024-2025,4,2024-09-26,Buffalo Bills,Dallas Cowboys,41,34,Buffalo Bills,7,75,67727,Bills Stadium
+51,2024-2025,4,2024-09-26,Jacksonville Jaguars,Seattle Seahawks,15,21,Seattle Seahawks,6,36,64464,Jaguars Stadium
+52,2024-2025,4,2024-09-26,Atlanta Falcons,Las Vegas Raiders,38,11,Atlanta Falcons,27,49,69097,Falcons Stadium
+53,2024-2025,4,2024-09-26,New York Giants,Pittsburgh Steelers,11,17,Pittsburgh Steelers,6,28,65136,Giants Stadium
+54,2024-2025,4,2024-09-26,Miami Dolphins,Green Bay Packers,34,31,Miami Dolphins,3,65,73168,Dolphins Stadium
+55,2024-2025,4,2024-09-26,Arizona Cardinals,Tennessee Titans,18,29,Tennessee Titans,11,47,63507,Cardinals Stadium
+56,2024-2025,4,2024-09-26,Cincinnati Bengals,New Orleans Saints,25,24,Cincinnati Bengals,1,49,72448,Bengals Stadium
+57,2024-2025,4,2024-09-26,Chicago Bears,New England Patriots,30,18,Chicago Bears,12,48,69546,Bears Stadium
+58,2024-2025,4,2024-09-26,New York Jets,San Francisco 49ers,24,15,New York Jets,9,39,67812,Jets Stadium
+59,2024-2025,4,2024-09-26,Baltimore Ravens,Los Angeles Rams,33,16,Baltimore Ravens,17,49,68396,Ravens Stadium
+60,2024-2025,4,2024-09-26,Denver Broncos,Tampa Bay Buccaneers,31,16,Denver Broncos,15,47,71170,Broncos Stadium
+61,2024-2025,4,2024-09-26,Kansas City Chiefs,Washington Commanders,33,41,Washington Commanders,8,74,62796,Chiefs Stadium
+62,2024-2025,4,2024-09-26,Cleveland Browns,Detroit Lions,32,39,Detroit Lions,7,71,65459,Browns Stadium
+63,2024-2025,4,2024-09-26,Minnesota Vikings,Philadelphia Eagles,40,27,Minnesota Vikings,13,67,76858,Vikings Stadium
+64,2024-2025,4,2024-09-26,Houston Texans,Carolina Panthers,34,26,Houston Texans,8,60,63454,Texans Stadium
+65,2024-2025,5,2024-10-03,Los Angeles Chargers,Carolina Panthers,28,27,Los Angeles Chargers,1,55,60288,Chargers Stadium
+66,2024-2025,5,2024-10-03,San Francisco 49ers,Jacksonville Jaguars,30,34,Jacksonville Jaguars,4,64,61855,49ers Stadium
+67,2024-2025,5,2024-10-03,Denver Broncos,Tampa Bay Buccaneers,33,38,Tampa Bay Buccaneers,5,71,75497,Broncos Stadium
+68,2024-2025,5,2024-10-03,New York Jets,Dallas Cowboys,30,20,New York Jets,10,50,61177,Jets Stadium
+69,2024-2025,5,2024-10-03,Miami Dolphins,Las Vegas Raiders,24,33,Las Vegas Raiders,9,57,78521,Dolphins Stadium
+70,2024-2025,5,2024-10-03,Philadelphia Eagles,New England Patriots,32,15,Philadelphia Eagles,17,47,63387,Eagles Stadium
+71,2024-2025,5,2024-10-03,Baltimore Ravens,Seattle Seahawks,29,23,Baltimore Ravens,6,52,61266,Ravens Stadium
+72,2024-2025,5,2024-10-03,New Orleans Saints,Atlanta Falcons,33,18,New Orleans Saints,15,51,68605,Saints Stadium
+73,2024-2025,5,2024-10-03,Indianapolis Colts,Kansas City Chiefs,36,40,Kansas City Chiefs,4,76,78158,Colts Stadium
+74,2024-2025,5,2024-10-03,Minnesota Vikings,Detroit Lions,26,25,Minnesota Vikings,1,51,79741,Vikings Stadium
+75,2024-2025,5,2024-10-03,New York Giants,Cincinnati Bengals,24,20,New York Giants,4,44,73271,Giants Stadium
+76,2024-2025,5,2024-10-03,Arizona Cardinals,Buffalo Bills,37,37,Tie,0,74,67760,Cardinals Stadium
+77,2024-2025,5,2024-10-03,Los Angeles Rams,Houston Texans,25,35,Houston Texans,10,60,77154,Rams Stadium
+78,2024-2025,5,2024-10-03,Chicago Bears,Pittsburgh Steelers,25,27,Pittsburgh Steelers,2,52,63726,Bears Stadium
+79,2024-2025,5,2024-10-03,Washington Commanders,Cleveland Browns,27,14,Washington Commanders,13,41,65017,Commanders Stadium
+80,2024-2025,5,2024-10-03,Green Bay Packers,Tennessee Titans,19,20,Tennessee Titans,1,39,67549,Packers Stadium
+81,2024-2025,6,2024-10-10,New England Patriots,Washington Commanders,25,22,New England Patriots,3,47,72664,Patriots Stadium
+82,2024-2025,6,2024-10-10,Baltimore Ravens,Los Angeles Chargers,19,18,Baltimore Ravens,1,37,62027,Ravens Stadium
+83,2024-2025,6,2024-10-10,Tampa Bay Buccaneers,Minnesota Vikings,31,24,Tampa Bay Buccaneers,7,55,79135,Buccaneers Stadium
+84,2024-2025,6,2024-10-10,Houston Texans,San Francisco 49ers,37,17,Houston Texans,20,54,67484,Texans Stadium
+85,2024-2025,6,2024-10-10,Philadelphia Eagles,Kansas City Chiefs,24,29,Kansas City Chiefs,5,53,72640,Eagles Stadium
+86,2024-2025,6,2024-10-10,Las Vegas Raiders,Tennessee Titans,12,20,Tennessee Titans,8,32,80488,Raiders Stadium
+87,2024-2025,6,2024-10-10,Carolina Panthers,Los Angeles Rams,32,19,Carolina Panthers,13,51,69304,Panthers Stadium
+88,2024-2025,6,2024-10-10,Detroit Lions,Dallas Cowboys,37,23,Detroit Lions,14,60,73531,Lions Stadium
+89,2024-2025,6,2024-10-10,Chicago Bears,Green Bay Packers,19,25,Green Bay Packers,6,44,68054,Bears Stadium
+90,2024-2025,6,2024-10-10,Miami Dolphins,Atlanta Falcons,21,35,Atlanta Falcons,14,56,68943,Dolphins Stadium
+91,2024-2025,6,2024-10-10,Buffalo Bills,New York Jets,21,18,Buffalo Bills,3,39,67171,Bills Stadium
+92,2024-2025,6,2024-10-10,New Orleans Saints,Arizona Cardinals,31,36,Arizona Cardinals,5,67,69026,Saints Stadium
+93,2024-2025,6,2024-10-10,New York Giants,Seattle Seahawks,27,20,New York Giants,7,47,78983,Giants Stadium
+94,2024-2025,6,2024-10-10,Indianapolis Colts,Jacksonville Jaguars,36,20,Indianapolis Colts,16,56,69633,Colts Stadium
+95,2024-2025,6,2024-10-10,Cincinnati Bengals,Cleveland Browns,23,11,Cincinnati Bengals,12,34,74678,Bengals Stadium
+96,2024-2025,6,2024-10-10,Denver Broncos,Pittsburgh Steelers,32,28,Denver Broncos,4,60,79976,Broncos Stadium
+97,2024-2025,7,2024-10-17,Pittsburgh Steelers,Tennessee Titans,29,20,Pittsburgh Steelers,9,49,64923,Steelers Stadium
+98,2024-2025,7,2024-10-17,Tampa Bay Buccaneers,Green Bay Packers,22,26,Green Bay Packers,4,48,65040,Buccaneers Stadium
+99,2024-2025,7,2024-10-17,New York Giants,Chicago Bears,28,19,New York Giants,9,47,66347,Giants Stadium
+100,2024-2025,7,2024-10-17,Carolina Panthers,Los Angeles Chargers,14,38,Los Angeles Chargers,24,52,80211,Panthers Stadium
+101,2024-2025,7,2024-10-17,Los Angeles Rams,Kansas City Chiefs,34,40,Kansas City Chiefs,6,74,72939,Rams Stadium
+102,2024-2025,7,2024-10-17,Jacksonville Jaguars,New England Patriots,28,15,Jacksonville Jaguars,13,43,69169,Jaguars Stadium
+103,2024-2025,7,2024-10-17,Cincinnati Bengals,Miami Dolphins,31,24,Cincinnati Bengals,7,55,63165,Bengals Stadium
+104,2024-2025,7,2024-10-17,Atlanta Falcons,Baltimore Ravens,19,26,Baltimore Ravens,7,45,65519,Falcons Stadium
+105,2024-2025,7,2024-10-17,Houston Texans,New Orleans Saints,39,29,Houston Texans,10,68,80236,Texans Stadium
+106,2024-2025,7,2024-10-17,Washington Commanders,Las Vegas Raiders,31,12,Washington Commanders,19,43,67973,Commanders Stadium
+107,2024-2025,7,2024-10-17,Seattle Seahawks,New York Jets,17,12,Seattle Seahawks,5,29,62124,Seahawks Stadium
+108,2024-2025,7,2024-10-17,Philadelphia Eagles,Cleveland Browns,42,13,Philadelphia Eagles,29,55,73144,Eagles Stadium
+109,2024-2025,7,2024-10-17,Dallas Cowboys,Denver Broncos,17,17,Tie,0,34,79431,Cowboys Stadium
+110,2024-2025,7,2024-10-17,Minnesota Vikings,Indianapolis Colts,35,24,Minnesota Vikings,11,59,69783,Vikings Stadium
+111,2024-2025,7,2024-10-17,San Francisco 49ers,Detroit Lions,29,21,San Francisco 49ers,8,50,71840,49ers Stadium
+112,2024-2025,7,2024-10-17,Buffalo Bills,Arizona Cardinals,41,34,Buffalo Bills,7,75,66484,Bills Stadium
+113,2024-2025,8,2024-10-24,Chicago Bears,New York Jets,30,22,Chicago Bears,8,52,76582,Bears Stadium
+114,2024-2025,8,2024-10-24,New York Giants,New England Patriots,14,26,New England Patriots,12,40,70340,Giants Stadium
+115,2024-2025,8,2024-10-24,Cleveland Browns,Arizona Cardinals,27,22,Cleveland Browns,5,49,75516,Browns Stadium
+116,2024-2025,8,2024-10-24,Los Angeles Chargers,Seattle Seahawks,32,38,Seattle Seahawks,6,70,73227,Chargers Stadium
+117,2024-2025,8,2024-10-24,Buffalo Bills,Detroit Lions,23,36,Detroit Lions,13,59,71450,Bills Stadium
+118,2024-2025,8,2024-10-24,New Orleans Saints,Denver Broncos,17,16,New Orleans Saints,1,33,80445,Saints Stadium
+119,2024-2025,8,2024-10-24,Minnesota Vikings,Pittsburgh Steelers,35,32,Minnesota Vikings,3,67,63661,Vikings Stadium
+120,2024-2025,8,2024-10-24,Tampa Bay Buccaneers,Jacksonville Jaguars,23,18,Tampa Bay Buccaneers,5,41,73783,Buccaneers Stadium
+121,2024-2025,8,2024-10-24,Tennessee Titans,Houston Texans,27,25,Tennessee Titans,2,52,68089,Titans Stadium
+122,2024-2025,8,2024-10-24,Miami Dolphins,Kansas City Chiefs,18,27,Kansas City Chiefs,9,45,68551,Dolphins Stadium
+123,2024-2025,8,2024-10-24,Philadelphia Eagles,Las Vegas Raiders,40,29,Philadelphia Eagles,11,69,66402,Eagles Stadium
+124,2024-2025,8,2024-10-24,Washington Commanders,Baltimore Ravens,20,38,Baltimore Ravens,18,58,70123,Commanders Stadium
+125,2024-2025,8,2024-10-24,Atlanta Falcons,Dallas Cowboys,28,22,Atlanta Falcons,6,50,65837,Falcons Stadium
+126,2024-2025,8,2024-10-24,Green Bay Packers,Indianapolis Colts,30,34,Indianapolis Colts,4,64,73668,Packers Stadium
+127,2024-2025,8,2024-10-24,Los Angeles Rams,San Francisco 49ers,40,29,Los Angeles Rams,11,69,80325,Rams Stadium
+128,2024-2025,8,2024-10-24,Carolina Panthers,Cincinnati Bengals,34,32,Carolina Panthers,2,66,75088,Panthers Stadium
+129,2024-2025,9,2024-10-31,New York Giants,Denver Broncos,28,23,New York Giants,5,51,64524,Giants Stadium
+130,2024-2025,9,2024-10-31,Indianapolis Colts,Green Bay Packers,26,38,Green Bay Packers,12,64,74168,Colts Stadium
+131,2024-2025,9,2024-10-31,Dallas Cowboys,Atlanta Falcons,29,35,Atlanta Falcons,6,64,64236,Cowboys Stadium
+132,2024-2025,9,2024-10-31,San Francisco 49ers,Pittsburgh Steelers,27,26,San Francisco 49ers,1,53,63477,49ers Stadium
+133,2024-2025,9,2024-10-31,Chicago Bears,Los Angeles Chargers,33,21,Chicago Bears,12,54,72225,Bears Stadium
+134,2024-2025,9,2024-10-31,Buffalo Bills,New England Patriots,42,22,Buffalo Bills,20,64,69753,Bills Stadium
+135,2024-2025,9,2024-10-31,Minnesota Vikings,Seattle Seahawks,32,23,Minnesota Vikings,9,55,64078,Vikings Stadium
+136,2024-2025,9,2024-10-31,Kansas City Chiefs,Las Vegas Raiders,31,27,Kansas City Chiefs,4,58,60832,Chiefs Stadium
+137,2024-2025,9,2024-10-31,Philadelphia Eagles,New York Jets,20,23,New York Jets,3,43,66478,Eagles Stadium
+138,2024-2025,9,2024-10-31,Carolina Panthers,New Orleans Saints,34,23,Carolina Panthers,11,57,63154,Panthers Stadium
+139,2024-2025,9,2024-10-31,Miami Dolphins,Tampa Bay Buccaneers,31,39,Tampa Bay Buccaneers,8,70,63336,Dolphins Stadium
+140,2024-2025,9,2024-10-31,Arizona Cardinals,Detroit Lions,22,37,Detroit Lions,15,59,69974,Cardinals Stadium
+141,2024-2025,9,2024-10-31,Cleveland Browns,Cincinnati Bengals,32,39,Cincinnati Bengals,7,71,79000,Browns Stadium
+142,2024-2025,9,2024-10-31,Jacksonville Jaguars,Houston Texans,19,39,Houston Texans,20,58,69431,Jaguars Stadium
+143,2024-2025,9,2024-10-31,Baltimore Ravens,Tennessee Titans,32,26,Baltimore Ravens,6,58,75874,Ravens Stadium
+144,2024-2025,9,2024-10-31,Los Angeles Rams,Washington Commanders,36,21,Los Angeles Rams,15,57,67410,Rams Stadium
+145,2024-2025,10,2024-11-07,Las Vegas Raiders,New Orleans Saints,16,24,New Orleans Saints,8,40,61804,Raiders Stadium
+146,2024-2025,10,2024-11-07,Buffalo Bills,Chicago Bears,41,22,Buffalo Bills,19,63,69528,Bills Stadium
+147,2024-2025,10,2024-11-07,Tampa Bay Buccaneers,San Francisco 49ers,30,22,Tampa Bay Buccaneers,8,52,75815,Buccaneers Stadium
+148,2024-2025,10,2024-11-07,Baltimore Ravens,Cincinnati Bengals,34,32,Baltimore Ravens,2,66,62106,Ravens Stadium
+149,2024-2025,10,2024-11-07,Jacksonville Jaguars,Philadelphia Eagles,18,37,Philadelphia Eagles,19,55,64931,Jaguars Stadium
+150,2024-2025,10,2024-11-07,Carolina Panthers,Tennessee Titans,35,20,Carolina Panthers,15,55,63666,Panthers Stadium
+151,2024-2025,10,2024-11-07,Detroit Lions,Seattle Seahawks,37,25,Detroit Lions,12,62,76649,Lions Stadium
+152,2024-2025,10,2024-11-07,New York Jets,Cleveland Browns,19,31,Cleveland Browns,12,50,76481,Jets Stadium
+153,2024-2025,10,2024-11-07,New England Patriots,Washington Commanders,28,27,New England Patriots,1,55,80435,Patriots Stadium
+154,2024-2025,10,2024-11-07,New York Giants,Miami Dolphins,14,38,Miami Dolphins,24,52,68481,Giants Stadium
+155,2024-2025,10,2024-11-07,Minnesota Vikings,Atlanta Falcons,24,37,Atlanta Falcons,13,61,70471,Vikings Stadium
+156,2024-2025,10,2024-11-07,Pittsburgh Steelers,Los Angeles Chargers,35,19,Pittsburgh Steelers,16,54,76302,Steelers Stadium
+157,2024-2025,10,2024-11-07,Denver Broncos,Arizona Cardinals,26,19,Denver Broncos,7,45,61722,Broncos Stadium
+158,2024-2025,10,2024-11-07,Dallas Cowboys,Los Angeles Rams,35,20,Dallas Cowboys,15,55,73626,Cowboys Stadium
+159,2024-2025,10,2024-11-07,Kansas City Chiefs,Green Bay Packers,22,29,Green Bay Packers,7,51,63374,Chiefs Stadium
+160,2024-2025,10,2024-11-07,Indianapolis Colts,Houston Texans,35,20,Indianapolis Colts,15,55,74765,Colts Stadium
+161,2024-2025,11,2024-11-14,Minnesota Vikings,Green Bay Packers,30,21,Minnesota Vikings,9,51,71893,Vikings Stadium
+162,2024-2025,11,2024-11-14,Washington Commanders,New York Jets,39,23,Washington Commanders,16,62,68576,Commanders Stadium
+163,2024-2025,11,2024-11-14,Miami Dolphins,Las Vegas Raiders,27,12,Miami Dolphins,15,39,76028,Dolphins Stadium
+164,2024-2025,11,2024-11-14,Denver Broncos,Pittsburgh Steelers,34,30,Denver Broncos,4,64,70875,Broncos Stadium
+165,2024-2025,11,2024-11-14,Buffalo Bills,Chicago Bears,40,28,Buffalo Bills,12,68,63448,Bills Stadium
+166,2024-2025,11,2024-11-14,Dallas Cowboys,Cleveland Browns,34,23,Dallas Cowboys,11,57,67451,Cowboys Stadium
+167,2024-2025,11,2024-11-14,Indianapolis Colts,Tampa Bay Buccaneers,28,30,Tampa Bay Buccaneers,2,58,76996,Colts Stadium
+168,2024-2025,11,2024-11-14,New Orleans Saints,Houston Texans,28,40,Houston Texans,12,68,70233,Saints Stadium
+169,2024-2025,11,2024-11-14,Los Angeles Chargers,Cincinnati Bengals,21,31,Cincinnati Bengals,10,52,60636,Chargers Stadium
+170,2024-2025,11,2024-11-14,Arizona Cardinals,New England Patriots,22,21,Arizona Cardinals,1,43,81874,Cardinals Stadium
+171,2024-2025,11,2024-11-14,New York Giants,Atlanta Falcons,28,31,Atlanta Falcons,3,59,62175,Giants Stadium
+172,2024-2025,11,2024-11-14,Philadelphia Eagles,Jacksonville Jaguars,22,18,Philadelphia Eagles,4,40,80090,Eagles Stadium
+173,2024-2025,11,2024-11-14,Carolina Panthers,Los Angeles Rams,22,31,Los Angeles Rams,9,53,80136,Panthers Stadium
+174,2024-2025,11,2024-11-14,Seattle Seahawks,San Francisco 49ers,39,32,Seattle Seahawks,7,71,69128,Seahawks Stadium
+175,2024-2025,11,2024-11-14,Baltimore Ravens,Kansas City Chiefs,21,28,Kansas City Chiefs,7,49,71083,Ravens Stadium
+176,2024-2025,11,2024-11-14,Detroit Lions,Tennessee Titans,28,33,Tennessee Titans,5,61,75472,Lions Stadium
+177,2024-2025,12,2024-11-21,New York Giants,New England Patriots,17,16,New York Giants,1,33,73678,Giants Stadium
+178,2024-2025,12,2024-11-21,Tennessee Titans,Kansas City Chiefs,11,24,Kansas City Chiefs,13,35,64888,Titans Stadium
+179,2024-2025,12,2024-11-21,Pittsburgh Steelers,Cincinnati Bengals,38,30,Pittsburgh Steelers,8,68,77360,Steelers Stadium
+180,2024-2025,12,2024-11-21,New Orleans Saints,Minnesota Vikings,19,20,Minnesota Vikings,1,39,73728,Saints Stadium
+181,2024-2025,12,2024-11-21,Baltimore Ravens,Buffalo Bills,39,41,Buffalo Bills,2,80,69270,Ravens Stadium
+182,2024-2025,12,2024-11-21,Philadelphia Eagles,Miami Dolphins,38,27,Philadelphia Eagles,11,65,80363,Eagles Stadium
+183,2024-2025,12,2024-11-21,New York Jets,Los Angeles Chargers,25,22,New York Jets,3,47,65693,Jets Stadium
+184,2024-2025,12,2024-11-21,Cleveland Browns,Chicago Bears,30,30,Tie,0,60,73321,Browns Stadium
+185,2024-2025,12,2024-11-21,Tampa Bay Buccaneers,Arizona Cardinals,24,14,Tampa Bay Buccaneers,10,38,72726,Buccaneers Stadium
+186,2024-2025,12,2024-11-21,Carolina Panthers,Seattle Seahawks,30,30,Tie,0,60,68184,Panthers Stadium
+187,2024-2025,12,2024-11-21,Los Angeles Rams,Indianapolis Colts,16,22,Indianapolis Colts,6,38,78248,Rams Stadium
+188,2024-2025,12,2024-11-21,San Francisco 49ers,Las Vegas Raiders,19,14,San Francisco 49ers,5,33,75491,49ers Stadium
+189,2024-2025,12,2024-11-21,Houston Texans,Atlanta Falcons,25,16,Houston Texans,9,41,63972,Texans Stadium
+190,2024-2025,12,2024-11-21,Green Bay Packers,Detroit Lions,18,39,Detroit Lions,21,57,73493,Packers Stadium
+191,2024-2025,12,2024-11-21,Washington Commanders,Denver Broncos,40,23,Washington Commanders,17,63,76561,Commanders Stadium
+192,2024-2025,12,2024-11-21,Dallas Cowboys,Jacksonville Jaguars,25,16,Dallas Cowboys,9,41,70524,Cowboys Stadium
+193,2024-2025,13,2024-11-28,Los Angeles Chargers,Indianapolis Colts,20,34,Indianapolis Colts,14,54,79506,Chargers Stadium
+194,2024-2025,13,2024-11-28,Miami Dolphins,Carolina Panthers,38,32,Miami Dolphins,6,70,79971,Dolphins Stadium
+195,2024-2025,13,2024-11-28,Denver Broncos,Pittsburgh Steelers,18,40,Pittsburgh Steelers,22,58,60878,Broncos Stadium
+196,2024-2025,13,2024-11-28,Detroit Lions,Cleveland Browns,38,17,Detroit Lions,21,55,75244,Lions Stadium
+197,2024-2025,13,2024-11-28,Las Vegas Raiders,Philadelphia Eagles,26,22,Las Vegas Raiders,4,48,66475,Raiders Stadium
+198,2024-2025,13,2024-11-28,Chicago Bears,Dallas Cowboys,34,29,Chicago Bears,5,63,79735,Bears Stadium
+199,2024-2025,13,2024-11-28,Buffalo Bills,Arizona Cardinals,42,36,Buffalo Bills,6,78,62777,Bills Stadium
+200,2024-2025,13,2024-11-28,New England Patriots,New York Giants,24,14,New England Patriots,10,38,74343,Patriots Stadium
+201,2024-2025,13,2024-11-28,Baltimore Ravens,Cincinnati Bengals,24,27,Cincinnati Bengals,3,51,72816,Ravens Stadium
+202,2024-2025,13,2024-11-28,Houston Texans,Seattle Seahawks,21,16,Houston Texans,5,37,62358,Texans Stadium
+203,2024-2025,13,2024-11-28,New York Jets,Minnesota Vikings,30,33,Minnesota Vikings,3,63,61940,Jets Stadium
+204,2024-2025,13,2024-11-28,Atlanta Falcons,New Orleans Saints,26,26,Tie,0,52,69680,Falcons Stadium
+205,2024-2025,13,2024-11-28,Los Angeles Rams,Kansas City Chiefs,19,40,Kansas City Chiefs,21,59,67253,Rams Stadium
+206,2024-2025,13,2024-11-28,Jacksonville Jaguars,Washington Commanders,17,35,Washington Commanders,18,52,65012,Jaguars Stadium
+207,2024-2025,13,2024-11-28,Green Bay Packers,Tampa Bay Buccaneers,22,17,Green Bay Packers,5,39,81959,Packers Stadium
+208,2024-2025,13,2024-11-28,Tennessee Titans,San Francisco 49ers,26,15,Tennessee Titans,11,41,75456,Titans Stadium
+209,2024-2025,14,2024-12-05,Miami Dolphins,San Francisco 49ers,26,15,Miami Dolphins,11,41,79997,Dolphins Stadium
+210,2024-2025,14,2024-12-05,Minnesota Vikings,Las Vegas Raiders,26,34,Las Vegas Raiders,8,60,69179,Vikings Stadium
+211,2024-2025,14,2024-12-05,Arizona Cardinals,Tampa Bay Buccaneers,22,34,Tampa Bay Buccaneers,12,56,71685,Cardinals Stadium
+212,2024-2025,14,2024-12-05,New England Patriots,Detroit Lions,19,28,Detroit Lions,9,47,64885,Patriots Stadium
+213,2024-2025,14,2024-12-05,Kansas City Chiefs,Jacksonville Jaguars,42,17,Kansas City Chiefs,25,59,66356,Chiefs Stadium
+214,2024-2025,14,2024-12-05,Los Angeles Rams,Cleveland Browns,40,13,Los Angeles Rams,27,53,66293,Rams Stadium
+215,2024-2025,14,2024-12-05,New York Giants,Indianapolis Colts,16,18,Indianapolis Colts,2,34,66960,Giants Stadium
+216,2024-2025,14,2024-12-05,Pittsburgh Steelers,Buffalo Bills,24,32,Buffalo Bills,8,56,70546,Steelers Stadium
+217,2024-2025,14,2024-12-05,Denver Broncos,Washington Commanders,20,30,Washington Commanders,10,50,74337,Broncos Stadium
+218,2024-2025,14,2024-12-05,Baltimore Ravens,Los Angeles Chargers,28,35,Los Angeles Chargers,7,63,65697,Ravens Stadium
+219,2024-2025,14,2024-12-05,Tennessee Titans,Seattle Seahawks,20,30,Seattle Seahawks,10,50,71549,Titans Stadium
+220,2024-2025,14,2024-12-05,Philadelphia Eagles,New York Jets,20,25,New York Jets,5,45,77536,Eagles Stadium
+221,2024-2025,14,2024-12-05,New Orleans Saints,Atlanta Falcons,25,15,New Orleans Saints,10,40,74148,Saints Stadium
+222,2024-2025,14,2024-12-05,Houston Texans,Dallas Cowboys,31,27,Houston Texans,4,58,68677,Texans Stadium
+223,2024-2025,14,2024-12-05,Chicago Bears,Carolina Panthers,15,31,Carolina Panthers,16,46,63373,Bears Stadium
+224,2024-2025,14,2024-12-05,Cincinnati Bengals,Green Bay Packers,28,26,Cincinnati Bengals,2,54,70736,Bengals Stadium
+225,2024-2025,15,2024-12-12,Seattle Seahawks,Philadelphia Eagles,25,40,Philadelphia Eagles,15,65,64213,Seahawks Stadium
+226,2024-2025,15,2024-12-12,Jacksonville Jaguars,Cincinnati Bengals,20,19,Jacksonville Jaguars,1,39,81110,Jaguars Stadium
+227,2024-2025,15,2024-12-12,Pittsburgh Steelers,Indianapolis Colts,35,20,Pittsburgh Steelers,15,55,66070,Steelers Stadium
+228,2024-2025,15,2024-12-12,Washington Commanders,Detroit Lions,23,21,Washington Commanders,2,44,80373,Commanders Stadium
+229,2024-2025,15,2024-12-12,Minnesota Vikings,New York Giants,29,26,Minnesota Vikings,3,55,65068,Vikings Stadium
+230,2024-2025,15,2024-12-12,Tampa Bay Buccaneers,Chicago Bears,20,22,Chicago Bears,2,42,62901,Buccaneers Stadium
+231,2024-2025,15,2024-12-12,Cleveland Browns,Miami Dolphins,12,34,Miami Dolphins,22,46,77332,Browns Stadium
+232,2024-2025,15,2024-12-12,Baltimore Ravens,Tennessee Titans,34,17,Baltimore Ravens,17,51,65768,Ravens Stadium
+233,2024-2025,15,2024-12-12,Kansas City Chiefs,Los Angeles Rams,42,19,Kansas City Chiefs,23,61,65979,Chiefs Stadium
+234,2024-2025,15,2024-12-12,Los Angeles Chargers,Carolina Panthers,29,27,Los Angeles Chargers,2,56,74191,Chargers Stadium
+235,2024-2025,15,2024-12-12,San Francisco 49ers,Las Vegas Raiders,32,21,San Francisco 49ers,11,53,70966,49ers Stadium
+236,2024-2025,15,2024-12-12,New England Patriots,New York Jets,22,12,New England Patriots,10,34,63805,Patriots Stadium
+237,2024-2025,15,2024-12-12,Denver Broncos,Arizona Cardinals,38,19,Denver Broncos,19,57,77394,Broncos Stadium
+238,2024-2025,15,2024-12-12,Dallas Cowboys,Atlanta Falcons,37,21,Dallas Cowboys,16,58,66694,Cowboys Stadium
+239,2024-2025,15,2024-12-12,Buffalo Bills,New Orleans Saints,27,14,Buffalo Bills,13,41,69225,Bills Stadium
+240,2024-2025,15,2024-12-12,Houston Texans,Green Bay Packers,20,32,Green Bay Packers,12,52,79146,Texans Stadium
+241,2024-2025,16,2024-12-19,Philadelphia Eagles,Buffalo Bills,21,32,Buffalo Bills,11,53,70124,Eagles Stadium
+242,2024-2025,16,2024-12-19,Baltimore Ravens,Green Bay Packers,35,18,Baltimore Ravens,17,53,75914,Ravens Stadium
+243,2024-2025,16,2024-12-19,New Orleans Saints,Pittsburgh Steelers,16,17,Pittsburgh Steelers,1,33,80913,Saints Stadium
+244,2024-2025,16,2024-12-19,Jacksonville Jaguars,Los Angeles Rams,22,17,Jacksonville Jaguars,5,39,70059,Jaguars Stadium
+245,2024-2025,16,2024-12-19,Washington Commanders,Minnesota Vikings,24,25,Minnesota Vikings,1,49,74084,Commanders Stadium
+246,2024-2025,16,2024-12-19,Los Angeles Chargers,New England Patriots,18,12,Los Angeles Chargers,6,30,81747,Chargers Stadium
+247,2024-2025,16,2024-12-19,Tennessee Titans,Las Vegas Raiders,27,33,Las Vegas Raiders,6,60,76831,Titans Stadium
+248,2024-2025,16,2024-12-19,Arizona Cardinals,Atlanta Falcons,23,17,Arizona Cardinals,6,40,76156,Cardinals Stadium
+249,2024-2025,16,2024-12-19,Seattle Seahawks,Detroit Lions,24,25,Detroit Lions,1,49,60103,Seahawks Stadium
+250,2024-2025,16,2024-12-19,Cincinnati Bengals,Denver Broncos,24,37,Denver Broncos,13,61,78017,Bengals Stadium
+251,2024-2025,16,2024-12-19,Miami Dolphins,Chicago Bears,24,25,Chicago Bears,1,49,71610,Dolphins Stadium
+252,2024-2025,16,2024-12-19,Dallas Cowboys,Kansas City Chiefs,18,39,Kansas City Chiefs,21,57,70183,Cowboys Stadium
+253,2024-2025,16,2024-12-19,Tampa Bay Buccaneers,New York Giants,37,24,Tampa Bay Buccaneers,13,61,70324,Buccaneers Stadium
+254,2024-2025,16,2024-12-19,San Francisco 49ers,Indianapolis Colts,32,28,San Francisco 49ers,4,60,69016,49ers Stadium
+255,2024-2025,16,2024-12-19,Carolina Panthers,Cleveland Browns,16,20,Cleveland Browns,4,36,74790,Panthers Stadium
+256,2024-2025,16,2024-12-19,New York Jets,Houston Texans,35,36,Houston Texans,1,71,62862,Jets Stadium
+257,2024-2025,17,2024-12-26,New York Giants,Baltimore Ravens,28,24,New York Giants,4,52,65227,Giants Stadium
+258,2024-2025,17,2024-12-26,Washington Commanders,Chicago Bears,32,15,Washington Commanders,17,47,67467,Commanders Stadium
+259,2024-2025,17,2024-12-26,New England Patriots,Indianapolis Colts,14,29,Indianapolis Colts,15,43,80160,Patriots Stadium
+260,2024-2025,17,2024-12-26,Minnesota Vikings,Jacksonville Jaguars,37,28,Minnesota Vikings,9,65,61930,Vikings Stadium
+261,2024-2025,17,2024-12-26,Cincinnati Bengals,Philadelphia Eagles,33,41,Philadelphia Eagles,8,74,70113,Bengals Stadium
+262,2024-2025,17,2024-12-26,Houston Texans,Pittsburgh Steelers,22,35,Pittsburgh Steelers,13,57,81720,Texans Stadium
+263,2024-2025,17,2024-12-26,Atlanta Falcons,Miami Dolphins,21,29,Miami Dolphins,8,50,70618,Falcons Stadium
+264,2024-2025,17,2024-12-26,Arizona Cardinals,Cleveland Browns,31,12,Arizona Cardinals,19,43,62902,Cardinals Stadium
+265,2024-2025,17,2024-12-26,Detroit Lions,Dallas Cowboys,21,19,Detroit Lions,2,40,67923,Lions Stadium
+266,2024-2025,17,2024-12-26,Kansas City Chiefs,Seattle Seahawks,25,33,Seattle Seahawks,8,58,75204,Chiefs Stadium
+267,2024-2025,17,2024-12-26,Carolina Panthers,Tampa Bay Buccaneers,24,23,Carolina Panthers,1,47,76722,Panthers Stadium
+268,2024-2025,17,2024-12-26,Los Angeles Chargers,Denver Broncos,37,31,Los Angeles Chargers,6,68,80255,Chargers Stadium
+269,2024-2025,17,2024-12-26,New York Jets,Los Angeles Rams,30,20,New York Jets,10,50,68197,Jets Stadium
+270,2024-2025,17,2024-12-26,San Francisco 49ers,Tennessee Titans,33,26,San Francisco 49ers,7,59,80965,49ers Stadium
+271,2024-2025,17,2024-12-26,Buffalo Bills,New Orleans Saints,35,35,Tie,0,70,61436,Bills Stadium
+272,2024-2025,17,2024-12-26,Las Vegas Raiders,Green Bay Packers,32,38,Green Bay Packers,6,70,78815,Raiders Stadium
+273,2024-2025,18,2025-01-02,New York Giants,Detroit Lions,11,23,Detroit Lions,12,34,68213,Giants Stadium
+274,2024-2025,18,2025-01-02,Tampa Bay Buccaneers,Green Bay Packers,17,24,Green Bay Packers,7,41,76885,Buccaneers Stadium
+275,2024-2025,18,2025-01-02,Houston Texans,Cleveland Browns,18,12,Houston Texans,6,30,65871,Texans Stadium
+276,2024-2025,18,2025-01-02,Miami Dolphins,Seattle Seahawks,17,34,Seattle Seahawks,17,51,68536,Dolphins Stadium
+277,2024-2025,18,2025-01-02,Los Angeles Rams,Tennessee Titans,23,29,Tennessee Titans,6,52,75009,Rams Stadium
+278,2024-2025,18,2025-01-02,New England Patriots,Minnesota Vikings,30,37,Minnesota Vikings,7,67,67414,Patriots Stadium
+279,2024-2025,18,2025-01-02,Dallas Cowboys,Carolina Panthers,26,15,Dallas Cowboys,11,41,79745,Cowboys Stadium
+280,2024-2025,18,2025-01-02,Baltimore Ravens,Buffalo Bills,36,29,Baltimore Ravens,7,65,68880,Ravens Stadium
+281,2024-2025,18,2025-01-02,Atlanta Falcons,New Orleans Saints,36,18,Atlanta Falcons,18,54,69904,Falcons Stadium
+282,2024-2025,18,2025-01-02,Cincinnati Bengals,Pittsburgh Steelers,39,25,Cincinnati Bengals,14,64,60988,Bengals Stadium
+283,2024-2025,18,2025-01-02,Arizona Cardinals,Las Vegas Raiders,29,27,Arizona Cardinals,2,56,69969,Cardinals Stadium
+284,2024-2025,18,2025-01-02,San Francisco 49ers,Jacksonville Jaguars,26,26,Tie,0,52,73294,49ers Stadium
+285,2024-2025,18,2025-01-02,Kansas City Chiefs,New York Jets,36,21,Kansas City Chiefs,15,57,75690,Chiefs Stadium
+286,2024-2025,18,2025-01-02,Denver Broncos,Philadelphia Eagles,26,39,Philadelphia Eagles,13,65,77906,Broncos Stadium
+287,2024-2025,18,2025-01-02,Chicago Bears,Indianapolis Colts,28,17,Chicago Bears,11,45,65629,Bears Stadium
+288,2024-2025,18,2025-01-02,Washington Commanders,Los Angeles Chargers,41,32,Washington Commanders,9,73,65588,Commanders Stadium

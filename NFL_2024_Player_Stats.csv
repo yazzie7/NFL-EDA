@@ -1,0 +1,56 @@
+Player_Name,Team,Position,Games_Played,Passing_Yards,Pass_TD,Interceptions,Completion_Pct,QBR,Rushing_Yards,Rush_TD,Receiving_Yards,Rec_TD,Receptions,Yards_Per_Catch,Tackles,Sacks,Forced_Fumbles,Pass_Deflections,Total_Yards
+Lamar Jackson,Baltimore Ravens,QB,17,4172.0,41.0,4.0,66.7,119.6,915.0,4.0,,,,,,,,,
+Josh Allen,Buffalo Bills,QB,17,3964.0,28.0,6.0,63.6,101.4,531.0,12.0,,,,,,,,,
+Joe Burrow,Cincinnati Bengals,QB,17,4918.0,43.0,7.0,69.8,115.1,58.0,3.0,,,,,,,,,
+Jayden Daniels,Washington Commanders,QB,17,3568.0,25.0,9.0,69.0,100.1,891.0,6.0,,,,,,,,,
+Jared Goff,Detroit Lions,QB,17,4629.0,37.0,12.0,72.4,111.0,48.0,4.0,,,,,,,,,
+Patrick Mahomes,Kansas City Chiefs,QB,17,3928.0,26.0,11.0,67.5,95.3,330.0,4.0,,,,,,,,,
+Sam Darnold,Minnesota Vikings,QB,17,4319.0,35.0,12.0,68.5,105.8,234.0,5.0,,,,,,,,,
+Jalen Hurts,Philadelphia Eagles,QB,16,2903.0,18.0,5.0,68.7,102.7,630.0,14.0,,,,,,,,,
+Baker Mayfield,Tampa Bay Buccaneers,QB,17,4500.0,41.0,16.0,71.4,104.8,79.0,0.0,,,,,,,,,
+Matthew Stafford,Los Angeles Rams,QB,17,3762.0,20.0,8.0,65.7,92.0,17.0,1.0,,,,,,,,,
+Jordan Love,Green Bay Packers,QB,17,3722.0,25.0,11.0,62.3,90.8,247.0,2.0,,,,,,,,,
+Justin Herbert,Los Angeles Chargers,QB,17,3870.0,23.0,3.0,66.1,98.6,267.0,2.0,,,,,,,,,
+CJ Stroud,Houston Texans,QB,17,3925.0,20.0,12.0,62.5,85.1,373.0,3.0,,,,,,,,,
+Bo Nix,Denver Broncos,QB,17,3775.0,29.0,12.0,66.3,97.1,430.0,4.0,,,,,,,,,
+Russell Wilson,Pittsburgh Steelers,QB,11,2482.0,16.0,5.0,63.7,93.0,111.0,3.0,,,,,,,,,
+Saquon Barkley,Philadelphia Eagles,RB,17,,,,,,2005.0,13.0,278.0,2.0,33.0,,,,,,2283.0
+Derrick Henry,Baltimore Ravens,RB,17,,,,,,1921.0,16.0,190.0,1.0,17.0,,,,,,2111.0
+Josh Jacobs,Green Bay Packers,RB,15,,,,,,1329.0,15.0,295.0,0.0,32.0,,,,,,1624.0
+Jahmyr Gibbs,Detroit Lions,RB,17,,,,,,1412.0,16.0,517.0,4.0,52.0,,,,,,1929.0
+Kenneth Walker III,Seattle Seahawks,RB,16,,,,,,1233.0,12.0,222.0,2.0,23.0,,,,,,1455.0
+James Conner,Arizona Cardinals,RB,17,,,,,,1184.0,8.0,421.0,1.0,47.0,,,,,,1605.0
+Bijan Robinson,Atlanta Falcons,RB,17,,,,,,1456.0,13.0,561.0,3.0,60.0,,,,,,2017.0
+David Montgomery,Detroit Lions,RB,14,,,,,,775.0,12.0,341.0,1.0,36.0,,,,,,1116.0
+De'Von Achane,Miami Dolphins,RB,15,,,,,,996.0,8.0,547.0,3.0,67.0,,,,,,1543.0
+Joe Mixon,Houston Texans,RB,13,,,,,,1004.0,11.0,112.0,0.0,14.0,,,,,,1116.0
+Ja'Marr Chase,Cincinnati Bengals,WR,17,,,,,,1.0,0.0,1708.0,17.0,117.0,14.6,,,,,
+Justin Jefferson,Minnesota Vikings,WR,17,,,,,,7.0,0.0,1533.0,10.0,103.0,14.9,,,,,
+Amon-Ra St. Brown,Detroit Lions,WR,17,,,,,,48.0,1.0,1263.0,12.0,115.0,11.0,,,,,
+CeeDee Lamb,Dallas Cowboys,WR,17,,,,,,16.0,0.0,1194.0,6.0,101.0,11.8,,,,,
+Puka Nacua,Los Angeles Rams,WR,12,,,,,,0.0,0.0,1026.0,4.0,79.0,13.0,,,,,
+Terry McLaurin,Washington Commanders,WR,17,,,,,,24.0,0.0,1096.0,13.0,82.0,13.4,,,,,
+AJ Brown,Philadelphia Eagles,WR,13,,,,,,0.0,0.0,1079.0,7.0,67.0,16.1,,,,,
+Mike Evans,Tampa Bay Buccaneers,WR,16,,,,,,0.0,0.0,1004.0,11.0,74.0,13.6,,,,,
+Tee Higgins,Cincinnati Bengals,WR,15,,,,,,0.0,0.0,911.0,10.0,73.0,12.5,,,,,
+Zay Flowers,Baltimore Ravens,WR,17,,,,,,129.0,1.0,1059.0,4.0,74.0,14.3,,,,,
+Nico Collins,Houston Texans,WR,12,,,,,,0.0,0.0,1008.0,7.0,68.0,14.8,,,,,
+Garrett Wilson,New York Jets,WR,17,,,,,,6.0,0.0,1104.0,6.0,96.0,11.5,,,,,
+Brock Bowers,Las Vegas Raiders,TE,17,,,,,,,,1194.0,5.0,112.0,10.7,,,,,
+George Kittle,San Francisco 49ers,TE,14,,,,,,,,823.0,6.0,65.0,12.7,,,,,
+Travis Kelce,Kansas City Chiefs,TE,17,,,,,,,,823.0,3.0,97.0,8.5,,,,,
+Sam LaPorta,Detroit Lions,TE,17,,,,,,,,889.0,7.0,82.0,10.8,,,,,
+Trey McBride,Arizona Cardinals,TE,17,,,,,,,,1104.0,1.0,96.0,11.5,,,,,
+Jake Ferguson,Dallas Cowboys,TE,17,,,,,,,,668.0,2.0,64.0,10.4,,,,,
+Dalton Kincaid,Buffalo Bills,TE,17,,,,,,,,667.0,5.0,73.0,9.1,,,,,
+David Njoku,Cleveland Browns,TE,14,,,,,,,,595.0,3.0,60.0,9.9,,,,,
+TJ Watt,Pittsburgh Steelers,LB,17,,,1.0,,,,,,,,,78.0,11.5,5.0,8.0,
+Micah Parsons,Dallas Cowboys,LB,17,,,0.0,,,,,,,,,90.0,11.0,2.0,4.0,
+Trey Hendrickson,Cincinnati Bengals,DE,17,,,0.0,,,,,,,,,52.0,14.0,3.0,2.0,
+Aidan Hutchinson,Detroit Lions,DE,5,,,0.0,,,,,,,,,31.0,7.5,1.0,1.0,
+Zaire Franklin,Indianapolis Colts,LB,17,,,2.0,,,,,,,,,197.0,1.5,2.0,5.0,
+Fred Warner,San Francisco 49ers,LB,16,,,2.0,,,,,,,,,132.0,2.0,1.0,10.0,
+Roquan Smith,Baltimore Ravens,LB,17,,,2.0,,,,,,,,,151.0,6.0,3.0,7.0,
+Xavier McKinney,Green Bay Packers,S,17,,,8.0,,,,,,,,,100.0,1.0,0.0,8.0,
+Kerby Joseph,Detroit Lions,S,17,,,9.0,,,,,,,,,74.0,0.0,1.0,14.0,
+Brian Branch,Detroit Lions,S,16,,,4.0,,,,,,,,,94.0,3.5,3.0,14.0,
